@@ -1,6 +1,5 @@
 require "rails_environment_seeds/version"
+require "rails_environment_seeds/railtie" 
 
 module RailsEnvironmentSeeds
-  class Error < StandardError; end
-  # Your code goes here...
 end
